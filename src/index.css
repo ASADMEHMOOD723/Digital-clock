@@ -1,0 +1,21 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+button{
+  padding: 10px 25px;
+  border: 2px solid black;
+  background-color: seagreen;
+  font-size: large;
+  text-transform:uppercase;
+}
+.Center{
+  background-color: slateblue;
+
+}
+.CC{
+  background-color: seagreen;
+  width: 200px;
+  margin: auto;
+}
